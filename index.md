@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title:  Ping Xie's Homepage
+# Ping Xie's Homepage
 ---
 
 <img src="picture.jpg" alt="Image" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
