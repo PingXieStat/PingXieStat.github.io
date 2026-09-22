@@ -3,42 +3,38 @@
 Ping Xie's Homepage
 ---
 
-![Image](picture.jpg)
+<img src="picture.jpg" alt="Image" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 # Ping Xie
 
 ## Contact Information
 
 - **Name:** Ping Xie
-- **Date of Birth:** October 19, 1995
 - **Email:** pxiestat@gmail.com; pxiestat@163.com
 - **Address:** Institute of Statistics and Big Data, Renmin University of China, Beijing, 100872, China
 
 ## Education
 
 - **Ph.D. in Probability Theory and Mathematical Statistics** | Sep. 2018 - Dec. 2024
-  Dalian University of Technology, China
+  Dalian University of Technology, China, 
   Supervisor: Xiaoguang Wang
 
 - **Ph.D. joint training program in Statistics** | May 2022 - Oct. 2023
-  KU Leuven, Belgium
+  KU Leuven, Belgium, 
   Supervisor: Ingrid Van Keilegom
-
-- **B.S. in Mathematics and Applied Mathematics** | Sep. 2014 - Jun. 2018
-  Liaoning Normal University, China
 
 ## Academic Positions
 
 - **Postdoctoral fellow** | Mar. 2025 - Now
-  Renmin University of China, Beijing, China
+  Renmin University of China, Beijing, China, 
   Supervisor: Liping Zhu
 
 - **Research Assistant** | Jan. 2025 - Feb. 2025
-  The Hong Kong Polytechnic University, Hong Kong, China
+  The Hong Kong Polytechnic University, Hong Kong,
   Supervisors: Wong Kin Yau; Lee Chun Yin
 
 - **Research Assistant** | Mar. 2024 - Nov. 2024
-  The Hong Kong Polytechnic University, Hong Kong, China
+  The Hong Kong Polytechnic University, Hong Kong,
   Supervisors: Wong Kin Yau; Lee Chun Yin
 
 ## Research Interests
@@ -76,10 +72,4 @@ Ping Xie's Homepage
 
 1. *Pharmaceutical Statistics*
 
-## Grants
 
-1. The Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation (Grant Number: GZC20252107)
-
-## Selected Scholarships
-
-1. Outstanding graduate of Dalian City 2018, Liaoning Normal University
