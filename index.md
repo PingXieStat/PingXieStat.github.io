@@ -1,6 +1,6 @@
 
 ---
-title: Ping Xie's Homepage
+Ping Xie's Homepage
 ---
 
 ![Image](picture.jpg)
