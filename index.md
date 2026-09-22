@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: Ping Xie - CV
+title: Ping Xie's Homepage
 ---
 
 ![Image](picture.jpg)
