@@ -4,6 +4,8 @@ layout: default
 title: Ping Xie - CV
 ---
 
+![Image](picture.jpg)
+
 # Ping Xie
 
 ## Contact Information
@@ -11,7 +13,6 @@ title: Ping Xie - CV
 - **Name:** Ping Xie
 - **Date of Birth:** October 19, 1995
 - **Email:** pxiestat@gmail.com; pxiestat@163.com
-- **Phone:** +86 132 1707 7020
 - **Address:** Institute of Statistics and Big Data, Renmin University of China, Beijing, 100872, China
 
 ## Education
